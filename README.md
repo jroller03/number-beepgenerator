@@ -14,10 +14,11 @@ A website created with CSS and HTML where a user can submit a number and get a r
 | :-------------     | :------------- | :------------- |
 | **Homepage** | User accesses to repository | Homepage with user input form |
 | **Program Gathers User Input** | User input: "Number" | Output: "range from 0-user number" |
-| **Program takes user Number**| User Input: "5" | Output: "0,1,2,3,4,5" |
-| **Program converts user input 10 to a phrase**| Input: "10" | Output: "Boop!" |
+| **Program takes user Number**| User Input: "3" | Output: ["Beep!"], ["Boop!"], [2], ["I'm sorry, Dave. I'm afraid I can't do that."] |
+| **Program converts user input 10 to a phrase**| Input: "10" | Output: Example Output: ["Beep!"], ["Boop!"], [2], ["I'm sorry, Dave. I'm afraid I can't do that."], ["4"], ["5"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["7"], ["8"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["Boop!"]
+ |
 | **Program Assigns user number to user input and does math in for loop and outputs the result** | Input: "0" | Output: "Beep!" |
-| **Program takes User input and outputs range of numbers or phrase**| Input: "30" | Page Displays: "I'm sorry Dave. I'm afraid I can't do that." |
+| **Program takes User input and outputs range of numbers or phrase**| Input: "30" | Page Displays: ["Beep!"], ["Boop!"], [2], ["I'm sorry, Dave. I'm afraid I can't do that."], ["4"], ["5"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["7"], ["8"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["Boop!"], ["Boop!"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["Boop!"], ["Boop!"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["Boop!"], ["Boop!"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["Boop!"], ["Beep!"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["22"], ["23"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["25"], ["26"], ["I'm sorry, Dave. I'm afraid I can't do that."], ["28"], ["29"], ["I'm sorry, Dave. I'm afraid I can't do that."] |
 
 ## Setup/Installation Requirements
 
@@ -34,6 +35,8 @@ A website created with CSS and HTML where a user can submit a number and get a r
 * CSS
 * HTML
 * Javascript
+* JQuery
+* Bootstrap
 
 ## Support and contact details
 
